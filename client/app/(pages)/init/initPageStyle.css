@@ -1,0 +1,9 @@
+.number-field {
+    @apply w-full mb-4 rounded border-2 border-gray-700 text-xl p-2;
+}
+.submit {
+    @apply w-full bg-blue-500 text-2xl p-2 rounded text-white tracking-wide hover:bg-blue-700;
+}
+.error {
+    @apply text-red-600 mb-4;
+}
